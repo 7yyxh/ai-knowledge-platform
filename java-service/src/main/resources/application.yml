@@ -251,6 +251,7 @@ blade:
     #接口放行
     skip-url:
       - /blade-test/**
+      - /chat/**
     #授权认证配置
     auth:
       - method: ALL
